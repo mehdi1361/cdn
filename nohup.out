@@ -1,0 +1,2284 @@
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/fontello/css/fontello.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/animate-css/animate.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/nifty-modal/css/component.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/magnific-popup/magnific-popup.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/ios7-switch/ios7-switch.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/pace/pace.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/sortable/sortable-theme-bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-icheck/skins/all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/prettify/github.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/rickshaw/rickshaw.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/morrischart/morris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-jvectormap/css/jquery-jvectormap-1.2.2.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-clock/clock.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/bootstrap-calendar/css/bic_calendar.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-weather/simpleweather.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/bootstrap-xeditable/css/bootstrap-editable.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /css/rtl.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /css/style-responsive.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-notifyjs/notify.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /js/pages/notifications.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-datatables/css/dataTables.bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-datatables/extensions/TableTools/css/dataTables.tableTools.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jqueryui/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-ui-touch/jquery.ui.touch-punch.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-slimscroll/jquery.slimscroll.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-sparkline/jquery-sparkline.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/nifty-modal/js/classie.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-detectmobile/detect.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/bootstrap-select2/select2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-animate-numbers/jquery.animateNumbers.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/ios7-switch/ios7.switch.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/fastclick/fastclick.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-blockui/jquery.blockUI.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/bootstrap-bootbox/bootbox.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery/jquery-1.11.1.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/nifty-modal/js/modalEffects.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/sortable/sortable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/bootstrap-fileinput/bootstrap.file-input.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/bootstrap-select/bootstrap-select.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/magnific-popup/jquery.magnific-popup.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/pace/pace.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-icheck/icheck.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/prettify/prettify.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /js/init.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/d3/d3.v3.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/rickshaw/rickshaw.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/raphael/raphael-min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/morrischart/morris.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-knob/jquery.knob.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-1.2.2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-us-aea-en.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-clock/clock.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-easypiechart/jquery.easypiechart.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-weather/jquery.simpleWeather-2.6.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/bootstrap-xeditable/js/bootstrap-editable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/bootstrap-calendar/js/bic_calendar.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /js/apps/calculator.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /js/apps/todo.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /js/apps/notes.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /js/pages/index.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-datatables/js/dataTables.bootstrap.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-datatables/extensions/TableTools/js/dataTables.tableTools.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /js/pages/datatables.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-datatables/js/jquery.dataTables.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-icheck/skins/line/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-icheck/skins/flat/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:47] "GET /libs/jquery-icheck/skins/futurico/futurico.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:11:48] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:48] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:48] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:48] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:48] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:48] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:48] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:48] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:48] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:48] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:48] "GET /img/favicon.ico HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 45368)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 16:11:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:52] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:52] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:52] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:52] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:52] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:52] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 45394)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 16:11:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:52] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:52] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:52] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:52] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:52] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:57] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:57] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:57] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:57] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:57] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:57] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:57] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:57] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:11:57] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:11:57] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:03] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:03] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:03] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:03] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:03] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:03] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:03] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:03] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:03] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:03] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:08] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:08] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:08] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:08] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:08] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:08] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:08] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:08] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:08] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:08] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:16] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:16] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:16] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:16] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:16] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:16] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:16] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:16] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:16] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:16] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:16] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:16] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:16] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:16] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:16] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:16] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:16] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:16] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:12:16] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:12:16] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET /libs/animate-css/animate.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET /libs/ios7-switch/ios7-switch.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET /libs/jquery-icheck/skins/futurico/futurico.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:42] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:53] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:53] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:53] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:53] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:53] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:53] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:53] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:53] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:53] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:53] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:54] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:59] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:59] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:59] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:59] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:59] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:59] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:28:59] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:28:59] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:04] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:04] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:04] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:04] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:04] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:04] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:04] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:04] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:04] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:04] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:22] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:22] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:22] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:22] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:22] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:22] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:22] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:22] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:22] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:29:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:29:22] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:54] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:54] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:54] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:54] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:54] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:54] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:38:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:54] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:54] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:54] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:54] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:54] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:58] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:58] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:58] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:58] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:58] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:58] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:58] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:58] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:58] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:58] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:59] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 46300)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 16:38:59] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 46302)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 16:38:59] "GET /libs/jquery-icheck/skins/flat/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 46304)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 16:38:59] "GET /libs/jquery-icheck/skins/line/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 46306)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 16:38:59] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:59] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:59] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:59] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:59] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:59] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:59] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:59] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:38:59] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:38:59] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:07] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:07] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:07] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:07] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:07] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:07] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:07] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:07] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:07] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:07] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:12] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:12] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:12] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:12] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:12] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/jquery-clock/clock.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/jquery-jvectormap/css/jquery-jvectormap-1.2.2.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/morrischart/morris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/bootstrap-calendar/css/bic_calendar.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/jquery-weather/simpleweather.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/bootstrap-xeditable/css/bootstrap-editable.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 46414)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/jquery-sparkline/jquery-sparkline.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/jquery-ui-touch/jquery.ui.touch-punch.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/jquery-detectmobile/detect.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/jquery-animate-numbers/jquery.animateNumbers.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/ios7-switch/ios7.switch.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/fastclick/fastclick.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/jquery-blockui/jquery.blockUI.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/bootstrap-bootbox/bootbox.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/jquery-slimscroll/jquery.slimscroll.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/nifty-modal/js/classie.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/nifty-modal/js/modalEffects.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/sortable/sortable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/bootstrap-fileinput/bootstrap.file-input.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/bootstrap-select/bootstrap-select.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/bootstrap-select2/select2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/magnific-popup/jquery.magnific-popup.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/pace/pace.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 46462)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 46464)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /libs/jquery-icheck/skins/flat/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 46466)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 16:39:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:15] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:16] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:16] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:16] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:16] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:20] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:20] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:20] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:20] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:20] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:20] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:20] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:20] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:20] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:20] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:20] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:20] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:20] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:20] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:21] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:21] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:21] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:21] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:21] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:21] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:33] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:33] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:33] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:33] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:33] "GET /libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 46544)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 16:39:33] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:33] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:33] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:33] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:33] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:33] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:34] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:34] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:34] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:34] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:34] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:34] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:34] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:34] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:39:34] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:39:34] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-notifyjs/notify.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /js/pages/notifications.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-datatables/css/dataTables.bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-datatables/extensions/TableTools/css/dataTables.tableTools.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery/jquery-1.11.1.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jqueryui/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-ui-touch/jquery.ui.touch-punch.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-detectmobile/detect.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-animate-numbers/jquery.animateNumbers.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/fastclick/fastclick.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/ios7-switch/ios7.switch.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-blockui/jquery.blockUI.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/bootstrap-bootbox/bootbox.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-slimscroll/jquery.slimscroll.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-sparkline/jquery-sparkline.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/nifty-modal/js/classie.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/nifty-modal/js/modalEffects.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/sortable/sortable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/fontello/css/fontello.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/animate-css/animate.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/nifty-modal/css/component.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/magnific-popup/magnific-popup.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/ios7-switch/ios7-switch.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/pace/pace.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/sortable/sortable-theme-bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-icheck/skins/all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/prettify/github.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/rickshaw/rickshaw.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/morrischart/morris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-jvectormap/css/jquery-jvectormap-1.2.2.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-clock/clock.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/bootstrap-calendar/css/bic_calendar.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-weather/simpleweather.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/bootstrap-xeditable/css/bootstrap-editable.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /css/rtl.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /css/style-responsive.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/bootstrap-fileinput/bootstrap.file-input.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/bootstrap-select/bootstrap-select.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/bootstrap-select2/select2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/magnific-popup/jquery.magnific-popup.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/pace/pace.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-icheck/icheck.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/prettify/prettify.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /js/init.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/d3/d3.v3.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/rickshaw/rickshaw.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/raphael/raphael-min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/morrischart/morris.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-knob/jquery.knob.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-1.2.2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-us-aea-en.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-clock/clock.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-easypiechart/jquery.easypiechart.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-weather/jquery.simpleWeather-2.6.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/bootstrap-xeditable/js/bootstrap-editable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/bootstrap-calendar/js/bic_calendar.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /js/apps/calculator.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /js/apps/todo.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /js/apps/notes.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /js/pages/index.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-datatables/js/jquery.dataTables.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-datatables/js/dataTables.bootstrap.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-datatables/extensions/TableTools/js/dataTables.tableTools.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /js/pages/datatables.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-icheck/skins/flat/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-icheck/skins/futurico/futurico.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:39] "GET /libs/jquery-icheck/skins/line/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:48:40] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:48:40] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:48:40] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:48:40] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:48:40] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:48:40] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:48:40] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:48:40] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:48:40] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:48:40] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:50:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:50:01] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:50:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:50:01] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:50:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:50:01] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:50:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:50:01] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:50:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:50:01] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:50:02] "GET /libs/sortable/sortable-theme-bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:50:02] "GET /libs/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:50:02] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:50:02] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:50:02] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:50:02] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:50:02] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:50:02] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:50:02] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:50:02] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:50:02] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:50:02] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-notifyjs/notify.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /js/pages/notifications.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery/jquery-1.11.1.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-detectmobile/detect.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-ui-touch/jquery.ui.touch-punch.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jqueryui/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-animate-numbers/jquery.animateNumbers.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/ios7-switch/ios7.switch.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/fastclick/fastclick.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-blockui/jquery.blockUI.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/bootstrap-bootbox/bootbox.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/prettify/prettify.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-slimscroll/jquery.slimscroll.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/nifty-modal/js/classie.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-sparkline/jquery-sparkline.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/sortable/sortable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/nifty-modal/js/modalEffects.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/bootstrap-calendar/js/bic_calendar.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /js/apps/notes.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/bootstrap-select/bootstrap-select.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/bootstrap-fileinput/bootstrap.file-input.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/magnific-popup/magnific-popup.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/pace/pace.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/bootstrap-select2/select2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/magnific-popup/jquery.magnific-popup.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/pace/pace.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-icheck/icheck.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /js/init.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/d3/d3.v3.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/rickshaw/rickshaw.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/raphael/raphael-min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/morrischart/morris.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-knob/jquery.knob.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-1.2.2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-us-aea-en.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-clock/clock.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-easypiechart/jquery.easypiechart.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-weather/jquery.simpleWeather-2.6.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/bootstrap-xeditable/js/bootstrap-editable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /js/apps/calculator.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /js/apps/todo.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /js/pages/index.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-datatables/js/jquery.dataTables.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-datatables/js/dataTables.bootstrap.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-datatables/extensions/TableTools/js/dataTables.tableTools.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /js/pages/datatables.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/fontello/css/fontello.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/animate-css/animate.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/nifty-modal/css/component.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/ios7-switch/ios7-switch.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-icheck/skins/all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/sortable/sortable-theme-bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/prettify/github.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/rickshaw/rickshaw.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/morrischart/morris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-jvectormap/css/jquery-jvectormap-1.2.2.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-clock/clock.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/bootstrap-calendar/css/bic_calendar.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-weather/simpleweather.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/bootstrap-xeditable/css/bootstrap-editable.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /css/rtl.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /css/style-responsive.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-datatables/css/dataTables.bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-datatables/extensions/TableTools/css/dataTables.tableTools.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-icheck/skins/flat/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-icheck/skins/line/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:49] "GET /libs/jquery-icheck/skins/futurico/futurico.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:56:50] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:56:50] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:56:50] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:56:50] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:56:50] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:56:50] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:56:50] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:56:50] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:56:50] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:56:50] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/fontello/css/fontello.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/animate-css/animate.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/nifty-modal/css/component.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-weather/simpleweather.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/bootstrap-xeditable/css/bootstrap-editable.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/magnific-popup/magnific-popup.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/ios7-switch/ios7-switch.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/pace/pace.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/sortable/sortable-theme-bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-icheck/skins/all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/prettify/github.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/rickshaw/rickshaw.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/morrischart/morris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-jvectormap/css/jquery-jvectormap-1.2.2.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-clock/clock.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/bootstrap-calendar/css/bic_calendar.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /css/rtl.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /css/style-responsive.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-notifyjs/notify.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /js/pages/notifications.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-datatables/css/dataTables.bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-datatables/extensions/TableTools/css/dataTables.tableTools.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery/jquery-1.11.1.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jqueryui/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-ui-touch/jquery.ui.touch-punch.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-detectmobile/detect.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-animate-numbers/jquery.animateNumbers.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/ios7-switch/ios7.switch.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/fastclick/fastclick.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-blockui/jquery.blockUI.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/bootstrap-bootbox/bootbox.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-slimscroll/jquery.slimscroll.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-sparkline/jquery-sparkline.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/nifty-modal/js/classie.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/nifty-modal/js/modalEffects.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/sortable/sortable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/bootstrap-fileinput/bootstrap.file-input.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/bootstrap-select/bootstrap-select.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/bootstrap-select2/select2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/magnific-popup/jquery.magnific-popup.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/pace/pace.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-icheck/icheck.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/prettify/prettify.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /js/init.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/d3/d3.v3.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/rickshaw/rickshaw.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/raphael/raphael-min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/morrischart/morris.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-knob/jquery.knob.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-1.2.2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-us-aea-en.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-clock/clock.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-easypiechart/jquery.easypiechart.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-weather/jquery.simpleWeather-2.6.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/bootstrap-xeditable/js/bootstrap-editable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/bootstrap-calendar/js/bic_calendar.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /js/apps/calculator.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /js/apps/todo.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /js/apps/notes.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /js/pages/index.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-datatables/js/dataTables.bootstrap.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-datatables/extensions/TableTools/js/dataTables.tableTools.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /js/pages/datatables.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-datatables/js/jquery.dataTables.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-icheck/skins/flat/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-icheck/skins/line/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /libs/jquery-icheck/skins/futurico/futurico.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:06] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET /libs/jqueryui/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET /libs/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET /libs/jquery/jquery-1.11.1.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 16:59:49] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 16:59:49] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:02:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:02:42] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:02:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:02:42] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:02:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:02:42] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:02:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:02:42] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:02:42] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:02:42] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:02:47] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:02:47] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:02:47] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:02:47] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:02:47] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:02:47] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:02:47] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:02:47] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:02:47] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:02:47] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:22] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:22] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:22] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:22] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:22] "GET /libs/fontello/css/fontello.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:10:22] "GET /libs/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:10:22] "GET /libs/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:10:22] "GET /libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 48136)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:10:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:22] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:27] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:27] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:27] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:27] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:27] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:27] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:27] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:27] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:27] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:27] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:28] "GET /libs/jquery-icheck/skins/square/aero.png HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:10:38] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:38] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:38] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:38] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:38] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:38] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:38] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:38] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:38] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:38] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:38] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:38] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:44] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:44] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:44] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:10:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:10:44] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:11:11] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:11:11] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:11:11] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:11:11] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:11:11] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:11:11] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:11:11] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:11:11] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:11:11] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:11:11] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:11:11] "GET /libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:11:11] "GET /libs/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:11:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:11:12] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:11:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:11:12] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:11:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:11:12] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:11:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:11:12] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:11:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:11:12] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:13:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:13:22] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:13:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:13:22] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:13:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:13:22] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:13:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:13:22] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:13:22] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:13:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:13:22] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:13:22] "GET /libs/fontello/css/fontello.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 48372)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:13:22] "GET /libs/jquery-icheck/skins/futurico/futurico.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 48374)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:13:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:13:22] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:13:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:13:22] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:13:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:13:22] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:13:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:13:22] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:13:22] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:13:22] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:14:13] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:14:13] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:14:13] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:14:13] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:14:13] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:14:13] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:14:13] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:14:13] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:14:13] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:14:13] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:14:13] "GET /libs/jquery-icheck/skins/futurico/futurico.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:14:13] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:14:13] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:14:13] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:14:13] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:14:13] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:14:13] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:14:13] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:14:13] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:14:13] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:14:13] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:14:13] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:22:05] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:22:05] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:22:05] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:22:05] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:22:05] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:22:05] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:22:05] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:22:05] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:22:05] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:22:05] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:22:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:22:06] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:22:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:22:06] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:22:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:22:06] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:22:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:22:06] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:22:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:22:06] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-notifyjs/notify.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /js/pages/notifications.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery/jquery-1.11.1.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jqueryui/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-ui-touch/jquery.ui.touch-punch.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-detectmobile/detect.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-animate-numbers/jquery.animateNumbers.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/ios7-switch/ios7.switch.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/fastclick/fastclick.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-blockui/jquery.blockUI.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/bootstrap-bootbox/bootbox.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/fontello/css/fontello.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/animate-css/animate.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/nifty-modal/css/component.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-slimscroll/jquery.slimscroll.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/magnific-popup/magnific-popup.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-sparkline/jquery-sparkline.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/ios7-switch/ios7-switch.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/pace/pace.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/nifty-modal/js/classie.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/sortable/sortable-theme-bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/prettify/github.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-icheck/skins/all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/nifty-modal/js/modalEffects.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/sortable/sortable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/rickshaw/rickshaw.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/morrischart/morris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/bootstrap-fileinput/bootstrap.file-input.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-jvectormap/css/jquery-jvectormap-1.2.2.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/bootstrap-select2/select2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/bootstrap-select/bootstrap-select.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-clock/clock.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/magnific-popup/jquery.magnific-popup.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /css/rtl.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-icheck/icheck.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/bootstrap-calendar/css/bic_calendar.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-weather/simpleweather.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-datatables/css/dataTables.bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/bootstrap-xeditable/css/bootstrap-editable.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/pace/pace.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/prettify/prettify.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /js/apps/notes.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /js/init.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/d3/d3.v3.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/rickshaw/rickshaw.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /css/style-responsive.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/raphael/raphael-min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/morrischart/morris.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-knob/jquery.knob.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-1.2.2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-datatables/extensions/TableTools/css/dataTables.tableTools.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-us-aea-en.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-clock/clock.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-easypiechart/jquery.easypiechart.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-weather/jquery.simpleWeather-2.6.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/bootstrap-xeditable/js/bootstrap-editable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/bootstrap-calendar/js/bic_calendar.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /js/apps/calculator.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /js/apps/todo.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /js/pages/index.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-datatables/js/jquery.dataTables.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-datatables/js/dataTables.bootstrap.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /libs/jquery-datatables/extensions/TableTools/js/dataTables.tableTools.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:09] "GET /js/pages/datatables.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:10] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:10] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:10] "GET /libs/jquery-icheck/skins/flat/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:10] "GET /libs/jquery-icheck/skins/line/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:10] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:10] "GET /libs/jquery-icheck/skins/futurico/futurico.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:10] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:29:10] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:29:10] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:29:10] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:29:10] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:29:10] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:29:10] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:29:10] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:29:10] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:29:10] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:29:12] "GET /img/apple-touch-icon-152x152.png HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:29:12] "GET /img/favicon.ico HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-notifyjs/notify.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /js/pages/notifications.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery/jquery-1.11.1.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jqueryui/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-ui-touch/jquery.ui.touch-punch.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-detectmobile/detect.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-animate-numbers/jquery.animateNumbers.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/ios7-switch/ios7.switch.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/fontello/css/fontello.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/animate-css/animate.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/nifty-modal/css/component.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/magnific-popup/magnific-popup.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/ios7-switch/ios7-switch.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/pace/pace.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/sortable/sortable-theme-bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-icheck/skins/all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/prettify/github.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/rickshaw/rickshaw.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/morrischart/morris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-jvectormap/css/jquery-jvectormap-1.2.2.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-clock/clock.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/bootstrap-calendar/css/bic_calendar.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-weather/simpleweather.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/bootstrap-xeditable/css/bootstrap-editable.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /css/rtl.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /css/style-responsive.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/fastclick/fastclick.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-blockui/jquery.blockUI.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/bootstrap-bootbox/bootbox.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-slimscroll/jquery.slimscroll.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-sparkline/jquery-sparkline.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/nifty-modal/js/classie.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/nifty-modal/js/modalEffects.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/sortable/sortable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/bootstrap-fileinput/bootstrap.file-input.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/bootstrap-select/bootstrap-select.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/bootstrap-select2/select2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/magnific-popup/jquery.magnific-popup.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/pace/pace.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-icheck/icheck.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/prettify/prettify.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-knob/jquery.knob.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /js/init.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/d3/d3.v3.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/rickshaw/rickshaw.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/raphael/raphael-min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-datatables/css/dataTables.bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-datatables/extensions/TableTools/css/dataTables.tableTools.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/morrischart/morris.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-1.2.2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-us-aea-en.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-clock/clock.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-easypiechart/jquery.easypiechart.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-weather/jquery.simpleWeather-2.6.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/bootstrap-xeditable/js/bootstrap-editable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/bootstrap-calendar/js/bic_calendar.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /js/apps/calculator.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /js/apps/todo.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /js/apps/notes.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /js/pages/index.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-datatables/js/jquery.dataTables.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-datatables/js/dataTables.bootstrap.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-datatables/extensions/TableTools/js/dataTables.tableTools.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /js/pages/datatables.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-icheck/skins/flat/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-icheck/skins/line/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /libs/jquery-icheck/skins/futurico/futurico.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:45] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:45] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:46] "GET /img/apple-touch-icon-152x152.png HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 49602)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:30:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:54] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:54] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:54] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:54] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:54] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:54] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:54] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:55] "GET /img/apple-touch-icon-152x152.png HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:30:55] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:55] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:55] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:55] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:55] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:55] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:30:55] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:30:55] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /libs/ios7-switch/ios7-switch.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /libs/magnific-popup/magnific-popup.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /libs/nifty-modal/css/component.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /libs/sortable/sortable-theme-bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /libs/pace/pace.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /libs/jquery-icheck/skins/flat/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 49696)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 49698)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:31:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:04] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:04] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:14] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:14] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:14] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:14] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:14] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:14] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:14] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:14] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:14] "GET /libs/bootstrap-xeditable/css/bootstrap-editable.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 49750)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:31:15] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:31:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:15] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:15] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 49756)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:31:15] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:31:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:15] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:15] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:15] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:15] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:31:15] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:31:15] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-notifyjs/notify.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /js/pages/notifications.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery/jquery-1.11.1.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/bootstrap-select/bootstrap-select.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/bootstrap-select2/select2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/magnific-popup/jquery.magnific-popup.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/rickshaw/rickshaw.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jqueryui/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-detectmobile/detect.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-ui-touch/jquery.ui.touch-punch.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-animate-numbers/jquery.animateNumbers.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/rickshaw/rickshaw.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/ios7-switch/ios7.switch.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/fastclick/fastclick.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-blockui/jquery.blockUI.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/bootstrap-bootbox/bootbox.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-slimscroll/jquery.slimscroll.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-sparkline/jquery-sparkline.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/nifty-modal/js/classie.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/nifty-modal/js/modalEffects.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/sortable/sortable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/bootstrap-fileinput/bootstrap.file-input.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/pace/pace.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-icheck/icheck.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/prettify/prettify.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /js/init.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/d3/d3.v3.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/fontello/css/fontello.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/animate-css/animate.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/raphael/raphael-min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/morrischart/morris.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/nifty-modal/css/component.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/magnific-popup/magnific-popup.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-knob/jquery.knob.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-1.2.2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/ios7-switch/ios7-switch.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-us-aea-en.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-clock/clock.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-easypiechart/jquery.easypiechart.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-weather/jquery.simpleWeather-2.6.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/bootstrap-xeditable/js/bootstrap-editable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/bootstrap-calendar/js/bic_calendar.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/pace/pace.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/sortable/sortable-theme-bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /js/apps/calculator.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /js/apps/todo.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /js/apps/notes.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /js/pages/index.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-datatables/js/jquery.dataTables.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-icheck/skins/all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/prettify/github.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-datatables/js/dataTables.bootstrap.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-datatables/extensions/TableTools/js/dataTables.tableTools.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /js/pages/datatables.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/morrischart/morris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-jvectormap/css/jquery-jvectormap-1.2.2.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-clock/clock.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/bootstrap-calendar/css/bic_calendar.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-weather/simpleweather.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/bootstrap-xeditable/css/bootstrap-editable.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /css/rtl.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /css/style-responsive.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-datatables/css/dataTables.bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /libs/jquery-datatables/extensions/TableTools/css/dataTables.tableTools.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:05] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:05] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:06] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:06] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:06] "GET /libs/jquery-icheck/skins/flat/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:06] "GET /libs/jquery-icheck/skins/line/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:06] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:06] "GET /libs/jquery-icheck/skins/futurico/futurico.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:06] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:06] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:06] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:06] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:06] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:06] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:06] "GET /libs/jquery-icheck/skins/square/aero.png HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:12] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:12] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:12] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:12] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:12] "GET /libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:12] "GET /libs/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:12] "GET /libs/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:12] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:12] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:12] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:12] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:12] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:12] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:12] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /libs/sortable/sortable-theme-bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 50200)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /libs/jquery-icheck/skins/line/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /libs/jquery-icheck/skins/futurico/futurico.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /img/apple-touch-icon-152x152.png HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:39] "GET /img/favicon.ico HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:44] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:44] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:44] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:44] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:44] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:44] "GET /libs/jquery-icheck/skins/line/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:44] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:44] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:44] "GET /libs/jquery-icheck/skins/futurico/futurico.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 50264)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:35:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:44] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:44] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:44] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:44] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:44] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:51] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:51] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:51] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:51] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET /libs/jquery-icheck/skins/line/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET /libs/jquery-icheck/skins/flat/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 50322)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 50324)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 50326)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:35:51] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET /libs/jquery-clock/clock.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 50330)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:35:51] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:51] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:51] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:51] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:35:51] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:35:51] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:36:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:36:01] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:36:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:36:01] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:36:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:36:01] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:36:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:36:01] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:36:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:36:01] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:36:01] "GET /libs/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:36:01] "GET /libs/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 50374)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 17:36:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:36:01] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:36:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:36:01] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:36:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:36:01] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:36:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:36:01] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:36:01] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:36:01] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-notifyjs/notify.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /js/pages/notifications.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery/jquery-1.11.1.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jqueryui/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-detectmobile/detect.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-ui-touch/jquery.ui.touch-punch.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-animate-numbers/jquery.animateNumbers.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/ios7-switch/ios7.switch.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/fastclick/fastclick.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-blockui/jquery.blockUI.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/nifty-modal/js/modalEffects.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/nifty-modal/js/classie.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-sparkline/jquery-sparkline.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-slimscroll/jquery.slimscroll.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/bootstrap-bootbox/bootbox.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/sortable/sortable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/bootstrap-fileinput/bootstrap.file-input.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/magnific-popup/jquery.magnific-popup.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/bootstrap-select2/select2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/bootstrap-select/bootstrap-select.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/pace/pace.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-icheck/icheck.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/prettify/prettify.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /js/init.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/d3/d3.v3.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/rickshaw/rickshaw.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/morrischart/morris.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/raphael/raphael-min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-knob/jquery.knob.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-1.2.2.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-easypiechart/jquery.easypiechart.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-clock/clock.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-jvectormap/js/jquery-jvectormap-us-aea-en.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-weather/jquery.simpleWeather-2.6.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/bootstrap-xeditable/js/bootstrap-editable.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /js/apps/todo.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/bootstrap-calendar/js/bic_calendar.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/animate-css/animate.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/nifty-modal/css/component.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /js/apps/calculator.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/rickshaw/rickshaw.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-datatables/css/dataTables.bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /js/apps/notes.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /js/pages/index.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-datatables/js/jquery.dataTables.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-datatables/js/dataTables.bootstrap.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jquery-datatables/extensions/TableTools/js/dataTables.tableTools.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /js/pages/datatables.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:07] "GET /libs/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/fontello/css/fontello.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/magnific-popup/magnific-popup.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/ios7-switch/ios7-switch.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/pace/pace.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/sortable/sortable-theme-bootstrap.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/jquery-icheck/skins/all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/prettify/github.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/morrischart/morris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/jquery-jvectormap/css/jquery-jvectormap-1.2.2.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/jquery-clock/clock.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/bootstrap-calendar/css/bic_calendar.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/jquery-weather/simpleweather.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/bootstrap-xeditable/css/bootstrap-editable.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /css/rtl.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /css/style-responsive.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/jquery-notifyjs/styles/metro/notify-metro.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/jquery-datatables/extensions/TableTools/css/dataTables.tableTools.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/jquery-icheck/skins/flat/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/jquery-icheck/skins/line/_all.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/jquery-icheck/skins/polaris/polaris.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /libs/jquery-icheck/skins/futurico/futurico.css HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 17:42:08] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 17:42:08] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /jalalijscalendar/calendar.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /jalalijscalendar/calendar-setup.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET //lang/calendar-fa.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /libs/jquery-clock/clock.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /libs/jquery-easypiechart/jquery.easypiechart.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /libs/jquery-weather/jquery.simpleWeather-2.6.min.js HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 51378)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /libs/bootstrap-calendar/js/bic_calendar.min.js HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 51380)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /js/apps/todo.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /js/apps/notes.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /js/pages/index.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /libs/jquery-datatables/js/dataTables.bootstrap.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /libs/jquery-datatables/extensions/TableTools/js/dataTables.tableTools.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /js/pages/datatables.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /libs/jquery-icheck/skins/minimal/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 51398)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /libs/jquery-icheck/skins/square/_all.css HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 51400)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [15/Dec/2018 18:03:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /jalalijscalendar/skins/aqua/theme.css HTTP/1.1" 404 -
+127.0.0.1 - - [15/Dec/2018 18:03:52] code 404, message File not found
+127.0.0.1 - - [15/Dec/2018 18:03:52] "GET /jalalijscalendar/jalali.js HTTP/1.1" 404 -
